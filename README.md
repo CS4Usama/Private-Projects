@@ -1,5 +1,5 @@
 # Private Projects
-Source Code can't be shared
+Source Code can be share on demand
 - ### C++ Project ┇ Managing Telephone Directory
         1. Add New Record
         2. Display All Records
